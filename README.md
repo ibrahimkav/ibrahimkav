@@ -1,4 +1,4 @@
- ![MasterHead](https://th.bing.com/th/id/OIP.sPHzm3xFUZGOkPiXvuTgTAHaDt?pid=ImgDet&rs=1)
+ ![MasterHead](https://iconshots.com/wp-content/uploads/2019/03/Java-Developer-1920x960.jpg)
 
 <h1 align="center">Hi 👋, I'm İbrahim Kav</h1>
 <h3 align="center">a passionate Java backend developer from Turkey</h3>
