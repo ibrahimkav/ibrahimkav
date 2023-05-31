@@ -1,4 +1,4 @@
- [![MasterHead]([http:](https://contentstatic.techgig.com/photo/89606788.cms))
+ [![MasterHead](https://contentstatic.techgig.com/photo/89606788.cms)
 
 <h1 align="center">Hi 👋, I'm İbrahim Kav</h1>
 <h3 align="center">a passionate Java backend developer from Turkey</h3>
